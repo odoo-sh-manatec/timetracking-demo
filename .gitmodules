@@ -1,0 +1,4 @@
+[submodule "manaTec-GmbH/manatec_timetracking"]
+	path = manaTec-GmbH/manatec_timetracking
+	url = git@github.com:manaTec-GmbH/manatec_timetracking.git
+	branch = 13.0
